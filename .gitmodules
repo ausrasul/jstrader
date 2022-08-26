@@ -1,0 +1,12 @@
+[submodule "algorithm"]
+	path = algorithm
+	url = git@gitlab.com:ausrasul/js-trader-algorithms.git
+[submodule "avanza-plugin"]
+	path = avanza-plugin
+	url = git@github.com:ausrasul/avanza-plugin.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:ausrasul/js_trader_utils.git
+[submodule "centrader"]
+	path = centrader
+	url = git@gitlab.com:ausrasul/js-trader-centrader.git
